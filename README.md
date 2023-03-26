@@ -1,7 +1,45 @@
+<style>
+.animate-charcter
+{
+   text-transform: uppercase;
+  background-image: linear-gradient(
+    -225deg,
+    #231557 0%,
+    #44107a 29%,
+    #ff1361 67%,
+    #fff800 100%
+  );
+  background-size: auto auto;
+  background-clip: border-box;
+  background-size: 200% auto;
+  color: #fff;
+  background-clip: text;
+  text-fill-color: transparent;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: textclip 2s linear infinite;
+  display: inline-block;
+      font-size: 190px;
+}
+
+@keyframes textclip {
+  to {
+    background-position: 200% center;
+  }
+}
+</style>
+
 <h1 align="center"> Hi!, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" />  My name is Aun Ali.   </h1> 
+         <div class="container">
+  <div class="row">
+    <div class="col-md-12 text-center">
+      <h3 class="animate-charcter"> EKOSH</h3>
+    </div>
+  </div>
+</div>
          <p align="left"> <img src="https://komarev.com/ghpvc/?username=SuhaibRumi&label=Views&color=blue&style=plastic&style=for-the-badge" alt="SuhaibRumi" /> </p>
          
 As a Flutter developer, I specialize in developing high-quality mobile applications using the Flutter framework. With strong knowledge of Dart programming language and expertise in building custom widgets and animations, I am committed to delivering exceptional user experiences. My experience includes developing apps for various industries such as finance, healthcare, e-commerce, and more. I am dedicated to staying up-to-date with the latest industry trends and best practices to provide the best possible solutions for my clients.
