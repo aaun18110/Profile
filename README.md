@@ -5,7 +5,10 @@
          height="45"
          width="45" />  My name is Aun Ali.   </h1> 
          <div class="container">
-         <p align="left"> <img src="https://komarev.com/ghpvc/?username=SuhaibRumi&label=Views&color=blue&style=plastic&style=for-the-badge" alt="SuhaibRumi" /> </p>
+          <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+	  <img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Flutter+Developer;UX/UI+Enthusiast;Open+Source+Lover%20&center=true&width=500&height=50"></a>
+</p>
          
 As a Flutter developer, I specialize in developing high-quality mobile applications using the Flutter framework. With strong knowledge of Dart programming language and expertise in building custom widgets and animations, I am committed to delivering exceptional user experiences. My experience includes developing apps for various industries such as finance, healthcare, e-commerce, and more. I am dedicated to staying up-to-date with the latest industry trends and best practices to provide the best possible solutions for my clients.
 # 💫 About Me:
