@@ -31,3 +31,4 @@ As a Flutter developer, I specialize in developing high-quality mobile applicati
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+	</div>
