@@ -1,5 +1,5 @@
-# Profile
-Hi! My name is  Aun Ali and as a Flutter developer, With strong knowledge of Dart programming language and expertise in building custom widgets and animations.
+Hi! 👋 My name is Aun Ali.
+As a Flutter developer, I specialize in developing high-quality mobile applications using the Flutter framework. With strong knowledge of Dart programming language and expertise in building custom widgets and animations, I am committed to delivering exceptional user experiences. My experience includes developing apps for various industries such as finance, healthcare, e-commerce, and more. I am dedicated to staying up-to-date with the latest industry trends and best practices to provide the best possible solutions for my clients.
 # 💫 About Me:
 😄 Pronouns: He/His<br>🔭 I’m currently building a blog app.<br>🌱 I’m currently learning more about BlockChain.<br>💬 Ask me about Flutter or any tech-related stuff.<br>How to reach me: Check the social links below.<br>⚡ Fun fact: I spend much of my time coding. 
 
