@@ -1,7 +1,9 @@
-Hi! <h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" />  I'm Suhaib Salman   </h1> My name is Aun Ali.
+         width="45" />  My name is Aun Ali.   </h1> 
+         <p align="left"> <img src="https://komarev.com/ghpvc/?username=SuhaibRumi&label=Views&color=blue&style=plastic&style=for-the-badge" alt="SuhaibRumi" /> </p>
+         
 As a Flutter developer, I specialize in developing high-quality mobile applications using the Flutter framework. With strong knowledge of Dart programming language and expertise in building custom widgets and animations, I am committed to delivering exceptional user experiences. My experience includes developing apps for various industries such as finance, healthcare, e-commerce, and more. I am dedicated to staying up-to-date with the latest industry trends and best practices to provide the best possible solutions for my clients.
 # 💫 About Me:
 😄 Pronouns: He/His<br>🔭 I’m currently building a blog app.<br>🌱 I’m currently learning more about BlockChain.<br>💬 Ask me about Flutter or any tech-related stuff.<br>How to reach me: Check the social links below.<br>⚡ Fun fact: I spend much of my time coding. 
@@ -22,4 +24,8 @@ As a Flutter developer, I specialize in developing high-quality mobile applicati
 ---
 [![](https://visitcount.itsvg.in/api?id=aaun18110&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
