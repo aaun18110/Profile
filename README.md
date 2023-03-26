@@ -22,9 +22,6 @@ As a Flutter developer, I specialize in developing high-quality mobile applicati
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aaun18110&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 ---
-[![](https://visitcount.itsvg.in/api?id=aaun18110&icon=0&color=6)](https://visitcount.itsvg.in)
-
-<div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
 
